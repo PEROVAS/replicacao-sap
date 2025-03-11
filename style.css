@@ -4,21 +4,35 @@ body{
 }
 .cabecalho{
     background-color: rgb(192, 186, 186);
+    border: solid;
 }
 .cinza{
     background-color: rgb(192, 186, 186);
+    border: solid;
 }
+
 .amarela{
 background-color: yellow;
 padding: 20px;
+border: solid;
 }
+
 .botoes{
     background-color: rgb(218, 185, 166);
     padding: 15px;
+    border: solid;
 }
 .flex{
     display: flex;
+    border: solid;
 }
 .esquerda{
     background-color: aquamarine;
+    padding-left: 300px;
+    border: solid;
+}
+.meio{
+    background-color: blue;
+    padding: right 300px; ;
+    border: solid;
 }
