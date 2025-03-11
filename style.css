@@ -2,6 +2,23 @@ body{
     background-color: white
 
 }
+.cabecalho{
+    background-color: rgb(192, 186, 186);
+}
+.cinza{
+    background-color: rgb(192, 186, 186);
+}
 .amarela{
-    padding: 0px;
+background-color: yellow;
+padding: 20px;
+}
+.botoes{
+    background-color: rgb(218, 185, 166);
+    padding: 15px;
+}
+.flex{
+    display: flex;
+}
+.esquerda{
+    background-color: aquamarine;
 }
